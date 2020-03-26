@@ -1,0 +1,14 @@
+{
+  "name": "create-cli-project",
+  "version": "1.0.0",
+  "description": "boilerplate for OZ cli projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Verzilli (martin.verzilli@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.0"
+  }
+}
