@@ -9,6 +9,7 @@
   "author": "Martin Verzilli (martin.verzilli@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/cli": "^2.8.0"
+    "@openzeppelin/cli": "^2.8.0",
+    "ganache-cli": "^6.9.1"
   }
 }
